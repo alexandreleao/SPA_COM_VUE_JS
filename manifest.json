@@ -1,0 +1,141 @@
+{
+	"name": "mwb_T_202209.jwpub",
+	"hash": "38227ccf95d4fab2d1a1efbd6dc1bd045c79f56bde73f1ce76b6336d3f168687",
+	"timestamp": "2022-06-08T18:58:57Z",
+	"version": 1,
+	"expandedSize": 6179482,
+	"contentFormat": "z-a",
+	"htmlValidated": true,
+	"mepsPlatformVersion": 2.100000,
+	"mepsBuildNumber": 11258,
+	"publication": { 
+		"fileName": "mwb_T_202209.db",
+		"type": 3,
+		"title": "Nossa Vida e Ministério Cristão — Apostila do Mês — 2022",
+		"shortTitle": "Apostilas (2022)",
+		"displayTitle": "Nossa Vida e Ministério Cristão — Apostila do Mês — 2022",
+		"referenceTitle": "Apostilas (2022)",
+		"undatedReferenceTitle": "Apostila Vida e Ministério",
+		"titleRich": "Nossa Vida e Ministério Cristão — Apostila do Mês — 2022",
+		"displayTitleRich": "Nossa Vida e Ministério Cristão — Apostila do Mês — 2022",
+		"referenceTitleRich": "Apostilas (2022)",
+		"undatedReferenceTitleRich": "Apostila Vida e Ministério",
+		"symbol": "mwb22",
+		"uniqueEnglishSymbol": "mwb22",
+		"uniqueSymbol": "mwb22",
+		"undatedSymbol": "mwb",
+		"englishSymbol": "mwb22",
+		"language": 5,
+		"hash": "92d193f15b2685432bc71c2ecf32cc7a553c50cd",
+		"timestamp": "2022-06-08T18:58:57Z",
+		"minPlatformVersion": 1,
+		"schemaVersion": 8,
+		"year": 2022,
+		"issueId": 20220900,
+		"issueNumber": 9,
+		"variation": "",
+		"publicationType": "Meeting Workbook",
+		"rootSymbol": "mwb22",
+		"rootYear": 2022,
+		"rootLanguage": 0,
+		"images": [ 
+			{
+				"signature": "a8f06988e60642082468b7f2d872299643a5337c:600:771",
+				"fileName": "mwb_T_202209.jpg",
+				"type": "c",
+				"attribute": "r",
+				"width": 600,
+				"height": 771
+			},
+			{
+				"signature": "35a18598ae9f00c750c2d7561343c2ac499a33da:120:120",
+				"fileName": "202022320_univ_sqr-120x120.jpg",
+				"type": "t",
+				"attribute": "r",
+				"width": 120,
+				"height": 120
+			},
+			{
+				"signature": "35a18598ae9f00c750c2d7561343c2ac499a33da:270:270",
+				"fileName": "202022320_univ_sqr-270x270.jpg",
+				"type": "t",
+				"attribute": "r",
+				"width": 270,
+				"height": 270
+			},
+			{
+				"signature": "35a18598ae9f00c750c2d7561343c2ac499a33da:600:600",
+				"fileName": "202022320_univ_sqr-600x600.jpg",
+				"type": "t",
+				"attribute": "r",
+				"width": 600,
+				"height": 600
+			},
+			{
+				"signature": "e4be624dba4bef1642bf00f3ddd0395db19a25cb:240:120",
+				"fileName": "202022320_univ_lsr-240x120.jpg",
+				"type": "lsr",
+				"attribute": "r",
+				"width": 240,
+				"height": 120
+			},
+			{
+				"signature": "e4be624dba4bef1642bf00f3ddd0395db19a25cb:560:280",
+				"fileName": "202022320_univ_lsr-560x280.jpg",
+				"type": "lsr",
+				"attribute": "r",
+				"width": 560,
+				"height": 280
+			},
+			{
+				"signature": "e4be624dba4bef1642bf00f3ddd0395db19a25cb:1200:600",
+				"fileName": "202022320_univ_lsr-1200x600.jpg",
+				"type": "lsr",
+				"attribute": "r",
+				"width": 1200,
+				"height": 600
+			},
+			{
+				"signature": "0adf22adda2a9cdcc15b0e5b721bd4f848b4ac85:360:120",
+				"fileName": "202022320_univ_pnr-360x120.jpg",
+				"type": "pnr",
+				"attribute": "r",
+				"width": 360,
+				"height": 120
+			},
+			{
+				"signature": "0adf22adda2a9cdcc15b0e5b721bd4f848b4ac85:810:270",
+				"fileName": "202022320_univ_pnr-810x270.jpg",
+				"type": "pnr",
+				"attribute": "r",
+				"width": 810,
+				"height": 270
+			},
+			{
+				"signature": "0adf22adda2a9cdcc15b0e5b721bd4f848b4ac85:1800:600",
+				"fileName": "202022320_univ_pnr-1800x600.jpg",
+				"type": "pnr",
+				"attribute": "r",
+				"width": 1800,
+				"height": 600
+			}
+		],
+		"categories": [ 
+				"mwb"
+		],
+		"attributes": [ 
+		],
+		"issueAttributes": [ 
+		],
+		"issueProperties": { 
+				"title": "Apostila Vida e Ministério, setembro-outubro de 2022",
+				"undatedTitle": "Apostila Vida e Ministério",
+				"coverTitle": "Reuniões de 5 de setembro a 6 de novembro",
+				"titleRich": "Apostila Vida e Ministério, setembro-outubro de 2022",
+				"undatedTitleRich": "Apostila Vida e Ministério",
+				"coverTitleRich": "Reuniões de 5 de setembro a 6 de novembro",
+				"symbol": "mwb22.09",
+				"undatedSymbol": "mwb"
+		}
+	}
+}
