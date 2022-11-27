@@ -2,6 +2,7 @@
 
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Route;
+use App\Models\User;
 
 /*
 |--------------------------------------------------------------------------
@@ -14,8 +15,14 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::post('/teste',function (Request $request) {
-    return $request->all();
+Route::post('/cadastro',function (Request $request) {
+    $cad = $request->all();
+    $user = User::create([
+        'name' => $cad['name'],
+        'email' => $cad['email'],
+        'password' => bcrypt($cad['password']),
+    ]);
+    return $user;
 });
 
 Route::middleware('auth:sanctum')->get('/user', function (Request $request) {
