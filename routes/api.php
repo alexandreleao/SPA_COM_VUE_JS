@@ -22,9 +22,11 @@ Route::post('/cadastro',function (Request $request) {
         'email' => $cad['email'],
         'password' => bcrypt($cad['password']),
     ]);
+    $user->token = $user->createToken($user->email)->accessToken;
+    
     return $user;
 });
 
-Route::middleware('auth:sanctum')->get('/user', function (Request $request) {
+Route::middleware('auth:api')->get('/usuario', function (Request $request) {
     return $request->user();
 });
