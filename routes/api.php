@@ -46,7 +46,7 @@ Route::post('/login',function (Request $request) {
     $validacao =  Validator::make($log, [
       
         'email' => 'required|string|email|max:255|',
-        'password' => 'required|string',
+        'password' => 'required|string|min:6|confirmed',
     ]);
 
     if($validacao->fails()){
